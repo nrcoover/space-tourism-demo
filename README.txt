@@ -5,3 +5,7 @@
  - INSTALL MODULES using " npm install " on the package.json (initialization for this defualt project has already been done, however, the node_modules folder is a .gitignore exception, so any templates built from this folder on github will have to reinstall the package.json file before beginning work.) Open the terminal with [CTRL]+[`] ("Control" and "Backtick").
 
  - BEGIN SASS WATCH: run " npm start "; you will have to run this every time you continue editing your website in a live browser; this ensures that the SASS you are writing updates live to the browser.
+
+ - This website build was created from the original idea by Frontend Mentor. You can see the project build page here: https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3/hub/space-tourism-multipage-website-H1TnWw1Q5
+
+ 
